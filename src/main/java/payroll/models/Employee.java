@@ -1,4 +1,6 @@
 public class Employee{
+<<<<<<< HEAD
+
     private String name;
     private String id;
     private double salary;
@@ -20,4 +22,8 @@ public class Employee{
     public double getSalary() {
         return salary;
     }
+=======
+    int age;
+    
+>>>>>>> menu
 }
